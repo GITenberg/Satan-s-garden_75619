@@ -1,0 +1,71 @@
+_repo: Satan-s-garden_75619
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Brundage, Margaret
+    alias: Brundage, M.
+    birthdate: 1900
+    deathdate: 1976
+    gutenberg_agent_id: '57353'
+    url: http://www.gutenberg.org/2009/agents/57353
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Brundage
+  - agent_name: Hammond, H. R.
+    alias: Hammond, J. R.
+    gutenberg_agent_id: '56113'
+    url: http://www.gutenberg.org/2009/agents/56113
+creator:
+  author:
+    agent_name: Price, E. Hoffmann
+    aliases:
+    - Price, E. H. (E. Hoffmann)
+    - Price, E. Hoffman
+    birthdate: 1898
+    deathdate: 1988
+    gutenberg_agent_id: '52792'
+    url: http://www.gutenberg.org/2009/agents/52792
+    wikipedia: https://en.wikipedia.org/wiki/E._Hoffmann_Price
+description: 'Reading ease score: 74.0 (7th grade). Fairly easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Religion/Spirituality/Paranormal'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75619'
+language: en
+pgterms:marc905: 20250126095241price
+pgterms:marc906: '1934'
+pgterms:marc907: us
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aIndianapolis, IN :$bPopular Fiction Publishing Company, $c1934.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note:
+- Produced from Weird Tales April and May 1934.
+- Pierre d'Artois
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Paranormal fiction'
+- !lcc 'PS'
+- GITenberg
+summary: '"Satan''s Garden" by E. Hoffmann Price is a thrilling adventure novel crafted
+  in the early 20th century. Set in the mystical surroundings of Bayonne, it intertwines
+  elements of occultism, supernatural horror, and intrigue. The story begins with
+  Glenn Farrell and his companion Pierre d''Artois attempting to uncover the invisible
+  forces tormenting a beautiful girl named Antoinette, who is caught in a terrifying
+  cycle of beatings connected to an unseen evil rooted in a mysterious garden, hinting
+  at a connection to hasheesh-eaters.  The opening of the narrative introduces the
+  characters of Glenn Farrell and Pierre d''Artois, who are deep in contemplation
+  about the strange occurrences surrounding Antoinette. As they monitor her restless
+  nights, they are drawn into escalating supernatural events that culminate in a sense
+  of dread, including the horrific sight of Antoinette suffering from invisible lashings.
+  Struggling to comprehend the forces at play, they uncover hints of an ancient evil
+  tied to the lore of the "Assassins" and the dark magic of a veiled master. The gripping
+  atmosphere sets the stage for a clash between rationality and the inexplicable,
+  suggesting a larger conspiracy as they resolve to protect Antoinette from her nightly
+  torment and the overarching terror of "Satan''s Garden." (This is an automatically
+  generated summary.)'
+title: Satan's garden
+url: http://www.gutenberg.org/ebooks/75619
