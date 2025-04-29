@@ -13,6 +13,9 @@ contributor:
     alias: Hammond, J. R.
     gutenberg_agent_id: '56113'
     url: http://www.gutenberg.org/2009/agents/56113
+covers:
+- cover_type: archival
+  image_path: 75619-h/images/cover.jpg
 creator:
   author:
     agent_name: Price, E. Hoffmann
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52792
     wikipedia: https://en.wikipedia.org/wiki/E._Hoffmann_Price
 description: 'Reading ease score: 74.0 (7th grade). Fairly easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75619#Satan-s-garden
 gutenberg_bookshelf:
 - 'Browsing: Religion/Spirituality/Paranormal'
 - 'Browsing: Fiction'
